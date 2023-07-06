@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Flash",
+        "date": "16 Haziran 2023",
+        "director": "Andy Muschietti",
+        "actors": [
+            "Ezra Miller",
+            "Sasha Calle"
+        ],
+        "synopsis": "\nBir bilim insanı olan Barry Allen, laboratuvarında çalıştığı sırada beklenmedik bir olayla karşı karşıya kalır. Fırtınalı bir gecede düşen yıldırım, Allen'ın kimyasallarını, kendisini ve malzemelerini korkunç bir şekilde çarpar.\n"
+    },
+    {
+        "name": "Elemental: Doğanın Güçleri",
+        "date": "16 Haziran 2023",
+        "director": "Peter Sohn",
+        "actors": [
+            "Leah Lewis",
+            "Mamoudou Athie"
+        ],
+        "synopsis": "\nElemental: Doğanın Güçleri, Element Şehri’nde yaşayan ateş, su, toprak ve hava elementlerinden sakinlerin hikayesini konu ediyor.\n"
+    },
+    {
+        "name": "Hüddam 3: Lamia",
+        "date": "16 Haziran 2023",
+        "director": "Utku Uçar",
+        "actors": [
+            "Hakan Erkuran",
+            "Ayhan Yılmaz"
+        ],
+        "synopsis": "\nDavut, yıllar önce hizmetkarı Lamia ile yanlış bir anlaşma yapmıştır ve bu anlaşmanın bozulması için kendi canına kıyar. Babasının ölümü ile yıkıma uğrayan Asaf, yaşananlar hakkında gerçeği öğrenmek ve bu laneti sonlandırmak için tıpkı babası Davut gibi Hüddam ilmine başvurur.\n"
+    },
+    {
+        "name": "Benim Babam Bir Kahraman",
+        "date": "16 Haziran 2023",
+        "director": "Orçun Benli",
+        "actors": [
+            "Ufuk Bayraktar",
+            "Mahir İpek"
+        ],
+        "synopsis": "\nBenim Babam Bir Kahraman, oğluna kalp yetmezliği teşhisi konmasıyla hayatı kararan bir babanın hikayesini konu ediyor.\n"
+    },
+    {
+        "name": "Obsesyon",
+        "date": "16 Haziran 2023",
+        "director": "Eray Altay",
+        "actors": [
+            "Ekin Mert Daymaz",
+            "Ege Kökenli"
+        ],
+        "synopsis": "\nObsesyon, sevdiği kadının kalbini kazanmaya çalışan obsesif bir adam hikayesini konu ediyor.\n"
+    },
+    {
+        "name": "Asteroit Şehir",
+        "date": "16 Haziran 2023",
+        "director": "Wes Anderson",
+        "actors": [
+            "Jason Schwartzman",
+            "Scarlett Johansson"
+        ],
+        "synopsis": "\nAsteroit Şehir, bilimsel amaçlı düzenlenen bir programda beklenmeyen olayların meydana gelmesiyle yaşananları konu ediyor.\n"
+    },
+    {
+        "name": "Joyland",
+        "date": "16 Haziran 2023",
+        "director": "Saim Sadiq",
+        "actors": [
+            "Ali Junejo",
+            "Alina Khan"
+        ],
+        "synopsis": "\nJoyland, evin küçük oğlunun aşık olmasıyla hayatları değişen, ataerkil bir ailenin hikayesini konu ediyor.\n"
+    },
+    {
+        "name": "Büyük Kaçış",
+        "date": "18 Haziran 2023",
+        "director": "Sinan Sevinç",
+        "actors": [
+            "Bartu Küçükçağlayan",
+            "Dougie George"
+        ],
+        "synopsis": "\nBüyük Kaçış, Kapalıçarşı'nın tarihi sokaklarında gerçekleşen nefes kesen bir kaçış hikayesini konu ediyor.\n"
+    }
+]
